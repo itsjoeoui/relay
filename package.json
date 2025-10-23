@@ -84,10 +84,6 @@
     "glob-watcher": "^6.0.0"
   },
   "private": true,
-  "devEngines": {
-    "node": ">=18.x",
-    "npm": ">=8.x"
-  },
   "jest": {
     "testMatch": [
       "<rootDir>/packages/**/__tests__/**/*-test.js"
